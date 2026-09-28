@@ -273,10 +273,6 @@ We welcome contributions from the community! Feel free to:
 
 - Fork the repository
 - Create a pull request with your changes
-- Report issues or suggest improvements
-
-## 📜 License
-
-This project currently has no license file. Add a LICENSE file (e.g. MIT) to clarify usage terms.
+- Report issues or suggest improvement.
 
 **🚀 Study smarter, not harder with AI! 📚**
